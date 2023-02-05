@@ -18,3 +18,4 @@ $table2 = new Table;
 $table2->color='white';
 $table2->legs = 3;
 var_dump($table2);
+$rik=1;
